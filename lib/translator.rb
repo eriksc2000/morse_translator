@@ -39,4 +39,11 @@ class Translator
                     "0" => "-----",
                     " " => " "}
   end
+
+  def Translator
+    @translator
+  end
+
+
+
 end
